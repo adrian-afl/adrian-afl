@@ -3,7 +3,7 @@
 **Don't be fooled by no activity from me!**
 
 This is because:
-- I use a different email for commits that github doesn't track
+- I use a different email for commits that GitHub doesn't track
 - Really important stuff is on my own Gitea, separate from GitHub
 
 I occasionally publish some cool stuff here.
